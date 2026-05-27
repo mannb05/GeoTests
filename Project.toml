@@ -1,0 +1,18 @@
+name = "GeoTests"
+uuid = "8cc33fdc-4cdd-4c99-9837-a9e2db158981"
+version = "0.1.0"
+authors = ["mannb05 <bcmann20@gmail.com>"]
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+GeoIO = "f5a160d5-e41d-4189-8b61-d57781c419e3"
+GeoStats = "dcc97b0b-8ce5-5539-9008-bb190f959ef6"
+PairPlots = "43a3c2be-4208-490b-832a-a21dcd55d7da"
+
+[compat]
+CairoMakie = "0.15.10"
+GLMakie = "0.13.10"
+GeoIO = "1.22.6"
+GeoStats = "0.85.0"
+PairPlots = "3.0.3"
